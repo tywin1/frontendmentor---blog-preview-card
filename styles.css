@@ -96,3 +96,14 @@ body {
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+@media (min-width: 1440px) {
+    .main-content {
+        max-width: 480px;
+        font-size: 1.125rem; /* font size for larger screens */
+    }
+    .attribution {
+        font-size: 0.875rem; /* font size for larger screens */
+    }
+
+}
