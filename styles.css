@@ -18,7 +18,7 @@ body {
     justify-content: center;
     font-family: var(--font-family);
     margin: 0;
-    padding: 0;
+    padding: 1em;
     background-color: var(--yellow);
     min-height: 100vh;
 }
